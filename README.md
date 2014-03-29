@@ -1,1 +1,3 @@
 A line
+
+ALL RIGHTS RESERVED
